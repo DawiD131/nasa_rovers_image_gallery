@@ -29,7 +29,7 @@ In order to run this app localy clone this repo and run `npm install` to install
 
 ## Features
 
--User can choose which rover he wants to view photos from
+-User can choose which rover he wants to view photos from.
 -More features will be added soon
 
 ## Status
